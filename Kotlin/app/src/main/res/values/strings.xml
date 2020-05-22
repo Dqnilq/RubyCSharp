@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Gama</string>
+    <string name="hello_world_text">THE_LABARATORIA</string>
+    <string name="inputname">Имя: Данила</string>
+    <string name="lastnameinput">Фамилия: Макаров</string>
+    <string name="emailinput">Email: makarov01@ya.ru</string>
+</resources>
